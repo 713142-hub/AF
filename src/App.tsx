@@ -723,7 +723,7 @@ export default function App() {
       <div 
         className="absolute inset-0 z-0 bg-cover bg-center bg-no-repeat"
         style={{ 
-          backgroundImage: 'url("https://i.postimg.cc/m2Dnt9kc/jemog-eul-iblyeoghaseyo-(12).png")'
+          backgroundImage: 'url("https://i.postimg.cc/MpdZSVn9/jemog-eul-iblyeoghaseyo-(13).png")'
         }}
       />
       <div className="absolute inset-0 z-0 bg-black/40" />
