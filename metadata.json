@@ -1,0 +1,5 @@
+{
+  "name": "Retro iPod Player",
+  "description": "A retro iPod-themed music player with song switching and lyrics view.",
+  "requestFramePermissions": []
+}
