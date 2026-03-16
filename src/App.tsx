@@ -11,7 +11,7 @@ import { Play, Pause, SkipForward, SkipBack, Battery, AlignLeft, ChevronRight, V
 const SONGS = [
   {
     id: 1,
-    title: "August Fools",
+    title: "01. August Fools",
     artist: "August Fools",
     album: "August Is For Fools",
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
@@ -120,7 +120,7 @@ Mind your own business
   },
   {
     id: 2,
-    title: "Love & Hate",
+    title: "02. Love & Hate",
     artist: "August Fools",
     album: "August Is For Fools",
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
@@ -253,7 +253,7 @@ Guess we’re worth the fight
   },
   {
     id: 3,
-    title: "Moonstruck",
+    title: "03. Moonstruck",
     artist: "Agust Fools",
     album: "August Is For Fools",
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
@@ -384,7 +384,7 @@ And I don’t wanna wake up
   },
   {
     id: 4,
-    title: "Crush on Me",
+    title: "04. Crush on Me",
     artist: "Agust Fools",
     album: "August Is For Fools",
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
@@ -507,7 +507,7 @@ Into something we can keep
   },
   {
     id: 5,
-    title: "Hungover",
+    title: "05. Hungover",
     artist: "Agust Fools",
     album: "August Is For Fools",
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
