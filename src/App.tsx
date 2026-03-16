@@ -4,7 +4,7 @@
  */
 
 import React, { useState, useRef, useEffect } from 'react';
-import { Play, Pause, SkipForward, SkipBack, Battery, AlignLeft, ChevronRight } from 'lucide-react';
+import { Play, Pause, SkipForward, SkipBack, Battery, AlignLeft, ChevronRight, Volume2, VolumeX } from 'lucide-react';
 
 // 🎵 여기에 원하는 노래들을 미리 세팅하세요!
 // audio와 cover에는 인터넷에 올라가 있는 파일의 URL 주소를 넣으시면 됩니다.
@@ -623,6 +623,7 @@ export default function App() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [currentTime, setCurrentTime] = useState(0);
   const [duration, setDuration] = useState(0);
+  const [volume, setVolume] = useState(0.5);
   
   // 'nowPlaying' (재생 화면) | 'playlist' (목록 화면)
   const [view, setView] = useState<'nowPlaying' | 'playlist'>('nowPlaying');
@@ -641,6 +642,12 @@ export default function App() {
       audioRef.current?.pause();
     }
   }, [isPlaying, currentSongIndex]);
+
+  useEffect(() => {
+    if (audioRef.current) {
+      audioRef.current.volume = volume;
+    }
+  }, [volume]);
 
   // 플레이리스트 스크롤 자동 이동
   useEffect(() => {
@@ -754,15 +761,15 @@ export default function App() {
             <div className="flex-1 overflow-hidden flex flex-col">
               {view === 'nowPlaying' ? (
                 <>
-                  <div className="flex flex-1 items-center">
-                    <div className="w-1/2 flex items-center justify-center p-1">
+                  <div className="flex flex-1 items-center overflow-hidden">
+                    <div className="w-[100px] h-[100px] shrink-0 flex items-center justify-center p-1">
                       <img 
                         src={currentSong.cover} 
                         alt="Album Cover" 
-                        className="w-full aspect-square object-cover rounded shadow-sm border border-gray-200"
+                        className="w-full h-full object-cover rounded shadow-sm border border-gray-200"
                       />
                     </div>
-                    <div className="w-1/2 pl-2 flex flex-col justify-center">
+                    <div className="flex-1 pl-2 flex flex-col justify-center overflow-hidden">
                       <h2 className="text-sm font-bold text-gray-900 truncate">{currentSong.title}</h2>
                       <p className="text-xs text-gray-600 truncate">{currentSong.artist}</p>
                       <p className="text-[10px] text-gray-500 truncate mt-1">{currentSong.album}</p>
@@ -790,6 +797,26 @@ export default function App() {
                         className="h-full bg-blue-500"
                         style={{ width: `${(currentTime / duration) * 100 || 0}%` }}
                       />
+                    </div>
+                    
+                    {/* Volume Bar */}
+                    <div className="flex items-center gap-1.5 mt-2">
+                      <VolumeX size={10} className="text-gray-500" />
+                      <div 
+                        className="flex-1 h-1.5 bg-gray-200 rounded-full overflow-hidden border border-gray-300 cursor-pointer"
+                        onClick={(e) => {
+                          const rect = e.currentTarget.getBoundingClientRect();
+                          const clickX = e.clientX - rect.left;
+                          const newVolume = Math.max(0, Math.min(1, clickX / rect.width));
+                          setVolume(newVolume);
+                        }}
+                      >
+                        <div 
+                          className="h-full bg-gray-500"
+                          style={{ width: `${volume * 100}%` }}
+                        />
+                      </div>
+                      <Volume2 size={10} className="text-gray-500" />
                     </div>
                   </div>
                 </>
@@ -895,6 +922,7 @@ export default function App() {
             <li>• <strong>가운데 버튼</strong>: 곡 선택 (목록) / 재생 및 일시정지</li>
             <li>• <strong>좌/우 버튼</strong>: 곡 이동 (목록) / 이전·다음 곡</li>
             <li>• <strong>화면 터치</strong>: 곡 바로 재생 (목록) / 구간 이동 (재생바)</li>
+            <li>• <strong>볼륨 조절</strong>: 재생 화면 하단의 볼륨바 클릭</li>
           </ul>
         </div>
 
