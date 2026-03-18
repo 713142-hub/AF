@@ -615,6 +615,145 @@ Hung over
 (숙취에 시달려)
 And I still wake up in your words
 (난 여전히 네가 남긴 말들 속에서 눈을 떠)`
+  },
+  {
+    id: 6,
+    title: "06. My Type",
+    artist: "Agust Fools",
+    album: "August Is For Fools",
+    cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
+    audio: "https://cdn1.suno.ai/02a4c121-319c-4ad8-95be-00b51e91fe7b.mp3",
+    lyrics: `[Verse 1]
+You walk in late 
+(지각하며 들어오는 너)
+Coffee stain on your sleeve 
+(소매엔 커피 얼룩이 묻어있고)
+Half-smirk, Half-awake 
+(비몽사몽한 채로 씩 웃는 게)
+Like you might still leave 
+(금방이라도 다시 나가버릴 것만 같아)
+White T-shirt, Like you just rolled out of bed
+(방금 침대에서 나온 듯한 흰 티셔츠)
+Blue jeans, Ripped at both knees
+(양쪽 무릎이 다 찢어진 청바지)
+Threadbare edges
+(너덜너덜해진 끝단까지)
+
+[Chorus]
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+I don’t know why
+(이유는 모르겠지만)
+But that’s my type
+(그게 내 취향이야)
+Messy hair
+(헝클어진 머리)
+Don’t care
+(신경도 안 쓰지)
+You don’t even try
+(넌 애쓰지도 않는데)
+Still I’m falling
+(난 여전히 빠져들고 있어)
+Falling
+(빠져들어)
+Every time
+(매번 이런 식이야)
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+Guess I’m wired for your kind of quiet 
+(네 그 무심한 침묵에 내가 중독됐나 봐)
+Heart says “run” but my feet stay right 
+(머리로는 도망치라는데 발이 떨어지질 않아)
+‘Cause that look on you
+(그런 네 모습이)
+Is my type
+(딱 내 스타일이니까)
+
+[Verse 2]
+You say my name
+(넌 내 이름을 불러)
+Like we’re halfway through a joke
+(마치 농담이라도 주고받던 사이처럼)
+Two straws
+(빨대는 두 개)
+One shake
+(밀크셰이크는 하나)
+Sharing secrets in the back booth glow
+(구석 자리 조명 아래 비밀을 나눠)
+Sleeves rolled
+(걷어 올린 소매)
+Ink peeking from your wrist
+(손목 사이로 보이는 타투)
+Small talk
+(시시한 대화들을 나눠)
+Til your eyes do that honest twist
+(네 눈빛이 일렁일 때까지)
+
+[Bridge]
+Maybe it’s simple
+(어쩌면 단순한 거야)
+Maybe it’s true
+(어쩌면 이게 진심일지도)
+I keep choosing trouble
+(난 계속 골칫거리를 선택해)
+Whenever it’s you
+(그게 너라면 난 언제든)
+All of my standards
+(내 까다로운 기준들마저)
+Out of sight
+(전부 내팽개쳐 버릴래)
+One look and I’m gone
+(한 번만 봐도 난 넘어가 버려)
+Yeah
+(그래)
+That’s about right (oh)
+(딱 그런 느낌이야)
+
+[Chorus]
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+I don’t know why
+(이유는 모르겠지만)
+But that’s my type
+(그게 내 취향이야)
+Messy hair
+(헝클어진 머리)
+Don’t care
+(신경도 안 쓰지)
+You don’t even try
+(넌 애쓰지도 않는데)
+Still I’m falling
+(난 여전히 빠져들고 있어)
+Falling
+(빠져들어)
+Every time
+(매번 이런 식이야)
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+Guess I’m wired for your kind of quiet 
+(네 그 무심한 침묵에 내가 중독됐나 봐)
+Heart says “run” but my feet stay right 
+(머리로는 도망치라는데 발이 떨어지질 않아)
+‘Cause that look on you
+(그런 네 모습이)
+Is my type
+(딱 내 스타일이니까)`
   }
 ];
 
