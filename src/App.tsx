@@ -624,13 +624,13 @@ And I still wake up in your words
     cover: "https://i.postimg.cc/nrxFYks3/jemog-eul-iblyeoghaseyo-(9).png",
     audio: "https://cdn1.suno.ai/02a4c121-319c-4ad8-95be-00b51e91fe7b.mp3",
     lyrics: `[Verse 1]
-You walk in late 
+You walk in late
 (지각하며 들어오는 너)
-Coffee stain on your sleeve 
+Coffee stain on your sleeve
 (소매엔 커피 얼룩이 묻어있고)
-Half-smirk, Half-awake 
+Half-smirk, Half-awake
 (비몽사몽한 채로 씩 웃는 게)
-Like you might still leave 
+Like you might still leave
 (금방이라도 다시 나가버릴 것만 같아)
 White T-shirt, Like you just rolled out of bed
 (방금 침대에서 나온 듯한 흰 티셔츠)
@@ -668,9 +668,9 @@ Blue jeans
 (청바지)
 Converse high
 (컨버스 하이)
-Guess I’m wired for your kind of quiet 
+Guess I’m wired for your kind of quiet
 (네 그 무심한 침묵에 내가 중독됐나 봐)
-Heart says “run” but my feet stay right 
+Heart says “run” but my feet stay right
 (머리로는 도망치라는데 발이 떨어지질 않아)
 ‘Cause that look on you
 (그런 네 모습이)
@@ -696,6 +696,44 @@ Small talk
 (시시한 대화들을 나눠)
 Til your eyes do that honest twist
 (네 눈빛이 일렁일 때까지)
+
+[Chorus]
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+I don’t know why
+(이유는 모르겠지만)
+But that’s my type
+(그게 내 취향이야)
+Messy hair
+(헝클어진 머리)
+Don’t care
+(신경도 안 쓰지)
+You don’t even try
+(넌 애쓰지도 않는데)
+Still I’m falling
+(난 여전히 빠져들고 있어)
+Falling
+(빠져들어)
+Every time
+(매번 이런 식이야)
+White T-shirt
+(흰 티셔츠)
+Blue jeans
+(청바지)
+Converse high
+(컨버스 하이)
+Guess I’m wired for your kind of quiet
+(네 그 무심한 침묵에 내가 중독됐나 봐)
+Heart says “run” but my feet stay right
+(머리로는 도망치라는데 발이 떨어지질 않아)
+‘Cause that look on you
+(그런 네 모습이)
+Is my type
+(딱 내 스타일이니까)
 
 [Bridge]
 Maybe it’s simple
@@ -746,9 +784,9 @@ Blue jeans
 (청바지)
 Converse high
 (컨버스 하이)
-Guess I’m wired for your kind of quiet 
+Guess I’m wired for your kind of quiet
 (네 그 무심한 침묵에 내가 중독됐나 봐)
-Heart says “run” but my feet stay right 
+Heart says “run” but my feet stay right
 (머리로는 도망치라는데 발이 떨어지질 않아)
 ‘Cause that look on you
 (그런 네 모습이)
