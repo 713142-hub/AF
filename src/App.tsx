@@ -56,7 +56,7 @@ Mind your own business
 Sun stuck to the window
 (창문엔 뜨거운 햇볕이 달라붙어 있고)
 Fan clicks Still it spins
-(선풍기는 덜컥거리면서도 계속 돌아가)
+(덜컥거리는 선풍기는 계속 돌아가)
 You keep scrolling my shadows
 (내 그림자들을 뒤지고 다니면서)
 Trying to live through my sins
@@ -66,9 +66,9 @@ You swear you really love me
 But you love being right
 (넌 그냥 네 말이 맞길 바랄 뿐)
 You just want a front row seat
-(넌 그냥 내 인생 망가지는 꼴을)
+(넌 그냥 내 인생 망가지는 걸)
 To every mess in my life
-(무대의 1열에서 보고 싶은 것뿐이잖아)
+(가장 앞에서 지켜보고 싶은 것뿐이잖아)
 
 [Chorus]
 August Fools
@@ -92,7 +92,7 @@ Mind your own business
 Talk all day till your tongue turns dry
 (하루 종일 떠들어대, 혀가 바싹 마를 때까지)
 I sleep fine You choke on your pride
-(난 잘 자고 있을 테니, 넌 네 자존심에 목이나 메어봐)
+(난 잘 자고 있을 테니, 넌 네 자존심에 목이나 매)
 If it don’t pay my rent
 (내 월세를 내주는 것도 아니고)
 If it don’t hold my hand
@@ -282,7 +282,7 @@ If this is wrong
 I don’t wanna be right
 (난 차라리 틀린 채로 살래)
 You’re turning every feeling up high
-(넌 내 감정을 미치게 끌어올려)
+(넌 매 순간 나를 벅차오르게 해)
 
 [Chorus]
 I’m moonstruck
@@ -349,12 +349,12 @@ Windows down
 (창문은 내려두고)
 We confess on repeat
 (우린 끊임없이 서로에게 고백해)
-“If we burn
-("만약 우리가 타버린다면,)
-Yeah we burn” you say
-(그래, 타버리는 거지" 라고 넌 말해)
-“I’d rather fade out loud than fade away”
-("소리 없이 사라질 바에는 불꽃처럼 타오를래")
+If we burn
+(만약 우리가 타버린다면,)
+Yeah we burn
+(그래 타버리는 거지)
+You say “I’d rather fade out loud than fade away”
+("소리 없이 사라질 바에는 불꽃처럼 타오를래"라고 넌 말해)
 
 [Chorus]
 I’m moonstruck
@@ -378,7 +378,7 @@ And I don’t wanna wake up
 Moonstruck
 (달에 홀려버렸어)
 Moonstruck
-(너에 홀려버렸어)
+(너에게 홀려버렸어)
 And I don’t wanna wake up
 (그리고 이 꿈에서 깨고 싶지 않아)`
   },
@@ -395,21 +395,21 @@ You keep staring at your phone
 Laugh
 (피식 웃어)
 Then look at me again
-(그리고 다시 나를 슬쩍 쳐다보는 너)
+(그리고 나를 슬쩍 다시 쳐다봐)
 Say my name like it’s a joke
 (장난처럼 내 이름을 부르지만)
 But your cheeks keep giving in
-(발그레해진 네 볼은 숨길 수가 없나 봐)
+(발그레해진 네 볼은 숨길 수가 없잖아)
 
 [Pre-Chorus]
 We’re “just friends” that’s what you say
-(우린 "그냥 친구"라고 넌 말하지)
+(넌 우리가 "그냥 친구"라고 해)
 But your eyes don’t act that way
 (하지만 네 눈빛은 전혀 그렇지가 않은걸)
 Every secret slips in silence
 (말하지 않아도 네 진심이 느껴져)
 Every silence feels the same
-(이 어색한 공기는 숨길 수가 없나 봐)
+(이 어색한 공기는 숨길 수가 없잖아)
 
 [Chorus]
 I know you have crush on me
@@ -429,7 +429,7 @@ You can stop pretending
 Please
 (제발 솔직해져 봐)
 ‘Cause I know you have crush on me
-(네가 날 좋아한다는 거, 이미 다 알고 있으니까)
+(네가 날 좋아하는 거 이미 다 알고 있으니까)
 
 [Verse 2]
 You get jealous when they call
@@ -449,9 +449,9 @@ You say I’m “too much to handle”
 Laugh then look away embarrassed
 (쑥스러운 듯 웃으며 고개를 돌려)
 But you’re waiting for a scandal
-(그렇지만 넌 내가 선을 넘길 기다리잖아)
+(넌 내가 선을 넘길 기다리고 있잖아)
 For the night we finally let it
-(서로의 마음을 터뜨려버릴 그 밤만을)
+(서로가 솔직해지는 그 밤만을)
 
 [Chorus]
 I know you have crush on me
@@ -520,7 +520,7 @@ Lipstick on the rim of my cup
 You laughed said I always overdo us
 (넌 웃으며 말했지, 내가 늘 우리를 너무 과하게 만든다고)
 Guess I never really know when to shut it off
-(난 아마 언제 멈춰야 할지 끝내 모르는 것 같아)
+(난 언제 멈춰야 할지 끝내 모를 것 같아)
 
 [Chorus]
 I’m love drunk
@@ -582,17 +582,17 @@ On the ghost of us that hurts
 
 [Bridge]
 If this is how it ends
-(이게 끝이라면)
+(정말 이렇게 끝나는 거야?)
 Why does it feel like the start
-(왜 시작인 것처럼 느껴질까)
+(그런데 난 왜 시작인 것처럼 느껴질까)
 Of something I can’t shake
-(떨쳐낼 수 없는 무언가의 시작이)
-Poured you straight into my heart (too hard)
+(떨쳐낼 수 없는 무언가의 시작일까)
+Poured you straight into my heart too hard
 (널 내 심장에 너무 진하게 부어버렸어)
 Now every morning’s proof
-(이제 매일 아침이 증명하고 있어)
+(이제 매일 아침 나는 증명하고 있어)
 That I still taste you in my blood
-(네가 여전히 내 피 안에 흐르고 있다는 걸)
+(네가 여전히 내 안에 흐르고 있다는 걸)
 
 [Chorus]
 I’m love drunk
